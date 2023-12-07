@@ -4,7 +4,7 @@
  
 ## 👋 Introduction
 
-#### Hi, I'm chan hee kang!
+#### Hi, I'm Ju Hyun Ko!
 #### I'm looking for a job as an Unity Client!
 
 #### 🔹 Personal Blog 👉 추후 작성   
