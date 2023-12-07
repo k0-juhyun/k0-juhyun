@@ -22,9 +22,11 @@
 ## 📃 Project
 |Project Name|Category|Tech Stack|Development|Team|   Period   |Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|EduVerse|Mobile Education Platform|Unity, C#|각종 기능|![Team](https://img.shields.io/badge/Team-red)| 23. 10. 09 ~ 23. 11. 28	|👉 [Repo](https://github.com/k0-juhyun/EduVerse)|
 |SAMpercent|VR Driving Simulation|Unity, C#|운전 면허 채점 시스템 개발|![Team](https://img.shields.io/badge/Team-red)| 23. 09. 04 ~ 23. 09. 29	|👉 [Repo](https://github.com/k0-juhyun/SAMpercent)|
 |BroStars|Game imiation<p></p>"BrawlStars"|Unity, C#|모바일 조이스틱 움직임, 포물선 발사체 궤적 계산, Photon 기반 실시간 네트워크 개발. |![Team](https://img.shields.io/badge/Team-red)| 23. 08. 07 ~ 23. 08. 31	|👉 [Repo](https://github.com/k0-juhyun/BroStars)|
 |BloodBorne|Game imiation<p></p>"BloodBorne"|Unity, C#|Input System 을 이용한 플레이어 동작 개발|![Team](https://img.shields.io/badge/Team-red)| 23. 07. 03 ~ 23. 07. 31	|👉 [Repo](https://github.com/k0-juhyun/Bloodborne)|
+|VR-BaseBall|VR BaseBall Game|Unity, C#|각종 기능|![Team](https://img.shields.io/badge/Team-red)| 22. 08. 07 ~ 22. 12. 31	|👉 [Repo](https://github.com/kcheee/VR-BaseBall-Game)|
 <br>
 
 
