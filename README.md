@@ -22,7 +22,7 @@
 
 
 ## 📞 Contact
-#### &emsp; 🔹 E-mail 👉 cksgml1101@naver.com 
-#### &emsp; 🔹 Blog 👉 [Link](https://kcheee.github.io) 
+#### &emsp; 🔹 E-mail 👉 imkojuhyun@gmail.com 
+#### &emsp; 🔹 Blog 👉
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
