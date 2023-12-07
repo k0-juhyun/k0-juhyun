@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=Welcome%20to%20kcheee%20Github%20&fontSize=50&fontColor=FFFFFF)
-
 <div align="center">
  
 ## 👋 Introduction
@@ -24,5 +22,3 @@
 ## 📞 Contact
 #### &emsp; 🔹 E-mail 👉 imkojuhyun@gmail.com 
 #### &emsp; 🔹 Blog 👉
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
