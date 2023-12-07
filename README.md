@@ -6,7 +6,7 @@
 <br>
 
 ## 🔗 Website
-#### 🔹 portfolio 👉 [Link](https://www.notion.so/98f4a35d545d49f38e67c5e15b752e12)
+#### 🔹 portfolio 👉 [Link](https://github.com/k0-juhyun/k0-juhyun/files/13602913/98f4a35d545d49f38e67c5e15b752e12.md)
 #### 🔹 Blog 👉 [Link](https://k0-juhyun.github.io) 
 <br>
 
