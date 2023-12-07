@@ -6,7 +6,7 @@
 <br>
 
 ## 🔗 Website
-#### 🔹 portfolio 👉 [Link](https://www.notion.so/98f4a35d545d49f38e67c5e15b752e12)
+#### 🔹 portfolio 👉 [Link](https://darkened-burglar-0c6.notion.site/98f4a35d545d49f38e67c5e15b752e12?pvs=4)
 #### 🔹 Blog 👉 [Link](https://k0-juhyun.github.io) 
 <br>
 
