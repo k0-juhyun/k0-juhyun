@@ -15,6 +15,9 @@
 <br>
 
 ## 📃 Project
+|Project Name|Tech Stack|Team|   Period   |Link|
+|:---:|:---:|:---:|:---:|:---:|
+|BloodBorne Game imiation | Developing Player Actions Using the Input System |![Team](https://img.shields.io/badge/Team-red)| 23. 08. 01 ~ 23. 08. 31	|👉 [Repo](https://github.com/k0-juhyun/Bloodborne)|
 #### 작성중...   
 <br>
 
