@@ -6,8 +6,8 @@
 <br>
 
 ## 🔗 Website
-#### 🔹 portfolio 👉 [Link](https://darkened-burglar-0c6.notion.site/98f4a35d545d49f38e67c5e15b752e12?pvs=4)
-#### 🔹 Blog 👉 [Link](https://k0-juhyun.github.io) 
+#### 🔹 Portfolio 👉 [Link](https://darkened-burglar-0c6.notion.site/98f4a35d545d49f38e67c5e15b752e12?pvs=4)
+#### 🔹 Technology introduction 👉 [Link](https://url.kr/qkay7d) 
 <br>
 
 ## 🛠 Tech Stack
