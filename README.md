@@ -6,6 +6,7 @@
 <br>
 
 ## 🔗 Website
+#### 🔹 Blog 👉 [Link](https://velog.io/@k0juhyun/posts) 
 #### 🔹 Resume 👉 [Link](https://darkened-burglar-0c6.notion.site/1629f164a015809dab02e79200d538c4)
 #### 🔹 Portfolio 👉 [Link](https://darkened-burglar-0c6.notion.site/98f4a35d545d49f38e67c5e15b752e12?pvs=4)
 #### 🔹 Technology introduction 👉 [Link](https://url.kr/qkay7d) 
